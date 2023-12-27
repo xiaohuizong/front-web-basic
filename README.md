@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-
-"# front-web-basic" 
-=======
+# getting started
